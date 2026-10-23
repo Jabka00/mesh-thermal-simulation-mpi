@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.py[cod]
+output/bench_p*.json
+models/sphere_sub6.stl
+.DS_Store

@@ -1,0 +1,7 @@
+numpy>=2.0.0
+scipy>=1.14.0
+trimesh>=4.0.0
+mpi4py>=4.0.0
+matplotlib>=3.9.0
+imageio>=2.35.0
+pyvista>=0.44.0
